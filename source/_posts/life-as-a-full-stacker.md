@@ -2,6 +2,7 @@
 title: life-as-a-full-stacker
 date: 2020-06-28 11:22:19
 tags: life
+categories: life
 ---
 
 有太多的琐事要处理
